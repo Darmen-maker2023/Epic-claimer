@@ -1,0 +1,10 @@
+{
+  "accounts": ["acc1", "acc2", "acc3"],
+  "headless": false,
+  "browser_path": "",
+  "sync": false,
+  "country": "US",
+  "check_interval_hours": 6,
+  "telegram_bot_token": "",
+  "telegram_chat_id": ""
+}

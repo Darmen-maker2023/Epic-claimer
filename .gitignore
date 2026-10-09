@@ -1,0 +1,16 @@
+# Local settings and authenticated browser sessions
+config.json
+profiles/
+screenshots/
+claim.log
+claimed.json
+
+# Build output and Python cache
+build/
+dist/*
+!dist/EpicClaimer-Android.apk
+EpicClaimer.exe
+__pycache__/
+*.py[cod]
+.venv/
+venv/
